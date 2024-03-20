@@ -1,7 +1,7 @@
 # aws_assignment
 1) Create the s3 bucket and with the correct folder structure
 2) write the flask code to fetch the filename from the s3 bucket folder
-3) Create an ec2 instance by configuring the iam role to access the s3 bucket and the correct security group settings i.e allow port 8085 in inbound traffic and insatll all the dependencies required to run the flask code like insatlling python3, flask and boto3
+3) Create an ec2 instance by configuring the iam role to access the s3 bucket and the correct security group settings i.e allow port 8085 in inbound traffic and install all the dependencies required to run the flask code like insatlling python3, flask and boto3
 4) Run the flask code
 5) Access the ec2 public url --> http://3.108.54.101:8085/home/komal.tater/B/ to see the output
 
